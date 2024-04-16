@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "blackwolf-tattoo",
+  "private_key_id": "fc977ca0ba7df843e1f4bad875e471e40b9bd819",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC/MazvKIW45baN\n4WZEPyAk39GlyP8IBLxgopH0nwdLxDTLMIa64emEdhsrj+T0BZz5JyPoqRcygXQW\nbo1b0+8Ttu/3SGAz8y1tCdU3kUaX6XFUk4fhHTc6DOfHnOgusgLdm3Ss68ELUEuJ\n9byTtEwMuIMpwdC+kc8hZHsmahlj63xYDRt0BqQa/2gspJlSla6BMcxS3IG11eRR\nBEbcC5lukJpL3p8n2dvXEh4qBhjVziuiPPU5iwhh+2/xgHZzNySwcYTb+QzjW21t\nANQeGGUGFzjzOKQ1ONzVrz2j9aGCRkjEY0NYqXecIg2TwA2as7MOsfUIH++RRsSk\nOJ13KNAZAgMBAAECggEAU7jS+18JP3AHwpVDDPt/feYsjaY4VzCLtN07gJzquvjO\nDXPQa6FlekWlnCvEnD6hAFFtXgI9UDZzuSbr65wggseGyQf+aIFCEQ9POKf6+6aT\no+9+fssmVds026oP2fLFYnkiXF5YCDY+/ciHrT40VxWtCen/GJQM2ZiAfM/VEnVW\n6unznq5RHw5zMfw7WROaPusPXO+x5cq70xFReFsSL7M7acq/E2NLSsvbc0Vc8CXx\nJ8sp0w4E3qUo7eiUeEYPQxhGkVa/tf2cbuuQrlKOgc3uLLBfc/ZALeSxlfflfSPs\nPLAHhP8OqUd1k7fpE1q7LqQGUSXy/exsKxzh7buIKQKBgQD3E47Hs86IGctsGK1C\n+1nllM7wYxWIFIDVnXOpu71D532hQROJFIXyvj0cgKfQRT+tsx0cNFAdd93d+VXX\nle5AADKGFaogE1rEBOwdDT2VHHnPgV9vHIi0AKzIsjMdp4USROtmqDcbwMHhZnkB\n+RF1KyBUmx+e2hhVKt84E0DWkwKBgQDGGW96jJ+o/VXcx/NvoKiROCCT0s/aPBRD\nMPoH/xlglQfrWVh8aPqcReNZMngGrq6hNUEf4f7iKqDP51jKI5LLc3dN5xsot0Ni\nF2wDti0IpMNAtVFvuAdGklkUT9JvHTMiC/ajW2laKLcWCyb++InwBMu55GiPDZKT\ncg+LAujeIwKBgHgJqHSdhtnYrlv2ITdJpoNDqMZhXTSfwXgG5wqvi2RSM1cEptkS\nf4FPq6ENYHpvKmDZhGsPf1zRv5j4ahwzW2z8q485N04eGRriyVPT+vdWvldyI0t4\nMXJCYa+f4/WkTaJymWtmjl+NZqR7hI7Q0wp5yVtRgitLCkdWbNxxfi7BAoGAMLz5\nTHFkprMNePBI2GHylyfz++qV8N9vLMjT+zusBrMj66djudgqMGCRetSL6zj3BfqQ\nN0Pm7cYHIp+MnM77wsp5w9TkPbQ5A903WgJsOgAvebAihRYF1DsVZ4XsBCJu/iVr\nXO2UkfYKdYXw5jJH3aGQbf/gKbHxKg2Z/V2N5XkCgYA+nS4xpJjHPdg2FemV6fHY\nOAFkn4P3k/jTJPTDV8RV5zKkRkdOJqKhs8ywGsP2h0qufELUzfYVXhUVQjKhwDOB\n71rvLWzVi4oJfooS4pvNYrGhf1mLDOC762RpH2rF237eS0Uy7CVoqUqoycbVcQhy\ndFv6mudhMxw4EvR0QxEAng==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-gppjk@blackwolf-tattoo.iam.gserviceaccount.com",
+  "client_id": "104193620143141654119",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-gppjk%40blackwolf-tattoo.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
